@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./regestaregumangl01daviuoft_0008.png"; bbox 0 0 2423 3749; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 949 1398 1782 1443">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 949 1398 1782 1443">
+     <span class='ocr_line' id='line_1_1' title="bbox 949 1398 1782 1443; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 949 1402 1177 1443; x_wconf 84' lang='lat' dir='ltr'>OXFORD</span> <span class='ocrx_word' id='word_1_2' title='bbox 1216 1398 1569 1440; x_wconf 85' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_3' title='bbox 1608 1398 1782 1437; x_wconf 81' lang='lat' dir='ltr'><strong>PRESS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 846 1473 1894 1558">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 846 1473 1894 1558">
+     <span class='ocr_line' id='line_1_2' title="bbox 846 1473 1894 1505; baseline -0.006 -1"><span class='ocrx_word' id='word_1_4' title='bbox 846 1479 1007 1505; x_wconf 74' lang='lat' dir='ltr'>LONDON</span> <span class='ocrx_word' id='word_1_5' title='bbox 1074 1476 1321 1503; x_wconf 82' lang='lat' dir='ltr'>EDINBURGH</span> <span class='ocrx_word' id='word_1_6' title='bbox 1390 1474 1588 1501; x_wconf 78' lang='lat' dir='ltr'><strong>GLASGOW</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1658 1473 1752 1499; x_wconf 83' lang='lat' dir='ltr'><strong>NEW</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1780 1473 1894 1499; x_wconf 80' lang='lat' dir='ltr'>YORK</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 958 1527 1783 1558; baseline -0.007 0"><span class='ocrx_word' id='word_1_9' title='bbox 958 1531 1142 1558; x_wconf 84' lang='lat' dir='ltr'>TORONTO</span> <span class='ocrx_word' id='word_1_10' title='bbox 1250 1529 1501 1556; x_wconf 80' lang='lat' dir='ltr'>MELBOURNE</span> <span class='ocrx_word' id='word_1_11' title='bbox 1613 1527 1783 1554; x_wconf 86' lang='lat' dir='ltr'><strong>BOMBAY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1028 1587 1706 1625">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1028 1587 1706 1625">
+     <span class='ocr_line' id='line_1_4' title="bbox 1028 1587 1706 1625; baseline -0.003 -1"><span class='ocrx_word' id='word_1_12' title='bbox 1028 1588 1310 1625; x_wconf 88' lang='lat' dir='ltr'><strong>HUMPHREY</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1346 1587 1567 1623; x_wconf 88' lang='lat' dir='ltr'>MILFORD</span> <span class='ocrx_word' id='word_1_14' title='bbox 1607 1587 1706 1622; x_wconf 78' lang='lat' dir='ltr'><strong>M.A.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1079 1655 1663 1680">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1079 1655 1663 1680">
+     <span class='ocr_line' id='line_1_5' title="bbox 1079 1655 1663 1680; baseline -0.005 -1"><span class='ocrx_word' id='word_1_15' title='bbox 1079 1657 1277 1680; x_wconf 82' lang='lat' dir='ltr'>PUBLISHER</span> <span class='ocrx_word' id='word_1_16' title='bbox 1299 1657 1340 1678; x_wconf 83' lang='grc' dir='ltr'><strong>ΤΟ</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1361 1657 1429 1678; x_wconf 78' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1452 1655 1663 1677; x_wconf 73' lang='lat' dir='ltr'>UMVERSITY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
